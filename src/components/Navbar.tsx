@@ -10,28 +10,28 @@ const Navbar = () => {
 
          {/* link */}
          
-         <Link href='#'
+         <Link href='/'
          className='navbar_link relative'>HOME
          </Link>
-         <Link href='#'
+         <Link href='/'
          className='navbar_link relative'>CATEGORY
          </Link>
-         <Link href='#'
-         className='navbar_link relative'>MEN'S
+         <Link href='/'
+         className='navbar_link relative'>MEN
          </Link>
-         <Link href='#'
-         className='navbar_link relative'>WOMEN'S
+         <Link href='/'
+         className='navbar_link relative'>WOMEN
          </Link>
-         <Link href='#'
+         <Link href='/'
          className='navbar_link relative'>JEWELRY
          </Link>
-         <Link href='#'
+         <Link href='/'
          className='navbar_link relative'>PERFUME
          </Link>
-         <Link href='#'
+         <Link href='/'
          className='navbar_link relative'>BLOG
          </Link>
-         <Link href='#'
+         <Link href='/'
          className='navbar_link relative'>HOT OFFERS
          </Link>
             </div>
